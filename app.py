@@ -24,13 +24,75 @@ TT_URL = "https://www.tiktok.com/@godsongeorge91?_r=1&_t=ZS-9B925sTsYzd"
 LI_URL = "https://www.linkedin.com/in/michael-blessing-27799923b?utm_source=share_via&utm_content=profile&utm_medium=member_android"
 FB_URL = "https://www.facebook.com/share/1FNNe8m19D/"
 
-CEO_PORTRAIT_URI = "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iNzUwIiB2aWV3Qm94PSIwIDAgNjAwIDc1MCI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJ3YmciIHgxPSIwIiB5MT0iMCIgeDI9IjAiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2UyZThmMCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjU1JSIgc3RvcC1jb2xvcj0iIzk0YTNiOCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMzMzQxNTUiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI2MDAiIGhlaWdodD0iNzUwIiBmaWxsPSJ1cmwoI2J3YmcpIi8+CiAgPHBvbHlnb24gcG9pbnRzPSIyNDUsMjUwIDM1NSwyNTAgNDc1LDc1MCAxMjUsNzUwIiBmaWxsPSIjNDc1NTY5Ii8+CiAgPGNpcmNsZSBjeD0iMzAwIiBjeT0iMTg1IiByPSI1NCIgZmlsbD0iIzFlMjkzYiIvPgogIDxyZWN0IHg9IjI2NiIgeT0iMTcwIiB3aWR0aD0iNjgiIGhlaWdodD0iMjIiIHJ4PSI2IiBmaWxsPSIjMGYxNzJhIi8+CiAgPHBvbHlnb24gcG9pbnRzPSIyNTIsMjUwIDM0OCwyNTAgMzc1LDU0NSAyMjUsNTQ1IiBmaWxsPSIjMTExODI3Ii8+CiAgPHBvbHlnb24gcG9pbnRzPSIyODIsMjUwIDMxOCwyNTAgMzAwLDMyMCIgZmlsbD0iI2Y4ZmFmYyIvPgogIDxwb2x5Z29uIHBvaW50cz0iMjk1LDI3NSAzMDUsMjc1IDMwOSwzODUgMzAwLDM5OCAyOTEsMzg1IiBmaWxsPSIjMWYyOTM3Ii8+CiAgPHJlY3QgeD0iMjY1IiB5PSI1NDUiIHdpZHRoPSIzMCIgaGVpZ2h0PSIxNDUiIGZpbGw9IiMxZjI5MzciLz4KICA8cmVjdCB4PSIzMDUiIHk9IjU0NSIgd2lkdGg9IjMwIiBoZWlnaHQ9IjE0NSIgZmlsbD0iIzFmMjkzNyIvPgogIDxyZWN0IHg9IjI2MCIgeT0iNjg1IiB3aWR0aD0iMzgiIGhlaWdodD0iMTgiIHJ4PSI2IiBmaWxsPSIjMGYxNzJhIi8+CiAgPHJlY3QgeD0iMzAyIiB5PSI2ODUiIHdpZHRoPSIzOCIgaGVpZ2h0PSIxOCIgcng9IjYiIGZpbGw9IiMwZjE3MmEiLz4KICA8cmVjdCB4PSIxMDUiIHk9IjcwNCIgd2lkdGg9IjM5MCIgaGVpZ2h0PSIzNCIgcng9IjEwIiBmaWxsPSIjMGYxNzJhIiBvcGFjaXR5PSIwLjkiLz4KICA8dGV4dCB4PSIzMDAiIHk9IjcyNiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iI2Y4ZmFmYyIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTQiIGZvbnQtd2VpZ2h0PSJib2xkIj5NaWNoYWVsIEJsZXNzaW5nIOKAoiBDRU8sIFVwc2lkZSBuZzwvdGV4dD4KPC9zdmc+"
-ACADEMY_STILL_URI = "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4MDAiIGhlaWdodD0iNDUwIiB2aWV3Qm94PSIwIDAgODAwIDQ1MCI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9InNreSIgeDE9IjAiIHkxPSIwIiB4Mj0iMCIgeTI9IjEiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjY2JkNWUxIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2UyZThmMCIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0idHVyZiIgeDE9IjAiIHkxPSIwIiB4Mj0iMCIgeTI9IjEiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMmU3ZDMyIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzFiNWUyMCIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjgwMCIgaGVpZ2h0PSIyMjUiIGZpbGw9InVybCgjc2t5KSIvPgogIDxyZWN0IHk9IjIyNSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIyMjUiIGZpbGw9InVybCgjdHVyZikiLz4KICA8bGluZSB4MT0iMCIgeTE9IjIyNSIgeDI9IjgwMCIgeTI9IjIyNSIgc3Ryb2tlPSIjOTRhM2I4IiBzdHJva2Utd2lkdGg9IjQiLz4KICA8cGF0aCBkPSJNOTAgMzYwIFEyMTAgMzE1IDM0MCAzNjAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIzIiBvcGFjaXR5PSIwLjc1Ii8+CiAgPGNpcmNsZSBjeD0iNjMwIiBjeT0iNjgiIHI9IjM2IiBmaWxsPSIjMGYxNzJhIiBzdHJva2U9IiMzOGJkZjgiIHN0cm9rZS13aWR0aD0iMyIvPgogIDx0ZXh0IHg9IjYzMCIgeT0iNjQiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiNmZmZmZmYiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmb250LXNpemU9IjExIiBmb250LXdlaWdodD0iYm9sZCI+RFlOQVNUWTwvdGV4dD4KICA8dGV4dCB4PSI2MzAiIHk9Ijc4IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjMzRkMzk5IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMCIgZm9udC13ZWlnaHQ9ImJvbGQiPkZPT1RCQUxMIEFDQURFTVk8L3RleHQ+CiAgPGNpcmNsZSBjeD0iNDAwIiBjeT0iMTk1IiByPSIxNCIgZmlsbD0iIzFlMjkzYiIvPgogIDxyZWN0IHg9IjM4MCIgeT0iMjEyIiB3aWR0aD0iNDAiIGhlaWdodD0iNTgiIHJ4PSI4IiBmaWxsPSIjODU0ZDBlIi8+CiAgPHRleHQgeD0iNDAwIiB5PSIyNDYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiNmZmZmZmYiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmb250LXNpemU9IjE4IiBmb250LXdlaWdodD0iYm9sZCI+MDQ8L3RleHQ+CiAgPGNpcmNsZSBjeD0iNDg1IiBjeT0iMTkyIiByPSIxMSIgZmlsbD0iIzFlMjkzYiIvPgogIDxyZWN0IHg9IjQ3MCIgeT0iMjA2IiB3aWR0aD0iMzAiIGhlaWdodD0iNDYiIHJ4PSI2IiBmaWxsPSIjMGQ5NDg4Ii8+CiAgPHRleHQgeD0iNDg1IiB5PSIyMzMiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiNmZmZmZmYiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmb250LXNpemU9IjEzIiBmb250LXdlaWdodD0iYm9sZCI+MTQ8L3RleHQ+CiAgPGNpcmNsZSBjeD0iNjIwIiBjeT0iMTg0IiByPSIxNSIgZmlsbD0iIzFlMjkzYiIvPgogIDxyZWN0IHg9IjU5OCIgeT0iMjAyIiB3aWR0aD0iNDQiIGhlaWdodD0iNjQiIHJ4PSI4IiBmaWxsPSIjMGY3NjZlIi8+CiAgPHRleHQgeD0iNjIwIiB5PSIyMzkiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiNmZmZmZmYiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmb250LXNpemU9IjIwIiBmb250LXdlaWdodD0iYm9sZCI+NTwvdGV4dD4KICA8cmVjdCB4PSIyNCIgeT0iMzg2IiB3aWR0aD0iMzUwIiBoZWlnaHQ9IjM4IiByeD0iMTAiIGZpbGw9IiMwZjE3MmEiIG9wYWNpdHk9IjAuODgiLz4KICA8dGV4dCB4PSI0MCIgeT0iNDEwIiBmaWxsPSIjZmZmZmZmIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIxNCIgZm9udC13ZWlnaHQ9ImJvbGQiPkR5bmFzdHkgRm9vdGJhbGwgQWNhZGVteSDigKIgUGl0Y2ggQWN0aW9uIEZyYW1lPC90ZXh0Pgo8L3N2Zz4="
-POV_STILL_URI = "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4MDAiIGhlaWdodD0iNDUwIiB2aWV3Qm94PSIwIDAgODAwIDQ1MCI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJ3IiB4MT0iMCIgeTE9IjAiIHgyPSIwIiB5Mj0iMSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNlMmU4ZjAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1NSUiIHN0b3AtY29sb3I9IiM5NGEzYjgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjNjQ3NDhiIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iODAwIiBoZWlnaHQ9IjQ1MCIgZmlsbD0idXJsKCNidykiLz4KICA8cG9seWdvbiBwb2ludHM9IjM0MCwyMTAgNDYwLDIxMCA2ODAsNDUwIDEyMCw0NTAiIGZpbGw9IiM0NzU1NjkiLz4KICA8Y2lyY2xlIGN4PSI2NTUiIGN5PSI2NCIgcj0iMzQiIGZpbGw9IiMwZjE3MmEiIHN0cm9rZT0iIzM4YmRmOCIgc3Ryb2tlLXdpZHRoPSIzIi8+CiAgPHRleHQgeD0iNjU1IiB5PSI2MSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iI2ZmZmZmZiIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTAiIGZvbnQtd2VpZ2h0PSJib2xkIj5EWU5BU1RZPC90ZXh0PgogIDx0ZXh0IHg9IjY1NSIgeT0iNzQiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiMzNGQzOTkiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmb250LXNpemU9IjkiIGZvbnQtd2VpZ2h0PSJib2xkIj5BQ0FERU1ZPC90ZXh0PgogIDxjaXJjbGUgY3g9IjQwNSIgY3k9IjIzNSIgcj0iMTMiIGZpbGw9IiMxZTI5M2IiLz4KICA8cGF0aCBkPSJNMzg1IDI1MiBMNDI1IDI1MiBMNDIwIDMxNSBMMzkwIDMxNSBaIiBmaWxsPSIjMzM0MTU1Ii8+CiAgPHBhdGggZD0iTTM4NSAyNTggTDM2OCAyMzIgTTQyNSAyNTggTDQ0MiAyMzIiIHN0cm9rZT0iIzFlMjkzYiIgc3Ryb2tlLXdpZHRoPSI2IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KICA8cmVjdCB4PSIxOTUiIHk9IjM0OCIgd2lkdGg9IjQxMCIgaGVpZ2h0PSI1OCIgcng9IjEyIiBmaWxsPSIjMGYxNzJhIiBvcGFjaXR5PSIwLjkiLz4KICA8dGV4dCB4PSI0MDAiIHk9IjM3MiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iI2ZmZmZmZiIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTUiIGZvbnQtd2VpZ2h0PSJib2xkIj5QT1Y6IHRoYXQgb25lIGJybyB0aGF0IGJsYW1lPC90ZXh0PgogIDx0ZXh0IHg9IjQwMCIgeT0iMzk0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjMzRkMzk5IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIxNSIgZm9udC13ZWlnaHQ9ImJvbGQiPmV2ZXJ5b25lIGV4Y2VwdCBoaW1zZWxmPC90ZXh0Pgo8L3N2Zz4="
-SCHOOL_STILL_URI = "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4MDAiIGhlaWdodD0iNDUwIiB2aWV3Qm94PSIwIDAgODAwIDQ1MCI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJnIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMxZTI5M2IiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMGYxNzJhIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iODAwIiBoZWlnaHQ9IjQ1MCIgZmlsbD0idXJsKCNiZykiLz4KICA8cmVjdCB4PSI2MCIgeT0iNTUiIHdpZHRoPSI2ODAiIGhlaWdodD0iMzQwIiByeD0iMTQiIGZpbGw9IiMzMzQxNTUiLz4KICA8cmVjdCB4PSI4NSIgeT0iODAiIHdpZHRoPSI2MzAiIGhlaWdodD0iMjI1IiByeD0iMTAiIGZpbGw9IiMxZTNhMmYiLz4KICA8Y2lyY2xlIGN4PSI2NDUiIGN5PSIxMTIiIHI9IjMwIiBmaWxsPSIjMGYxNzJhIiBzdHJva2U9IiMzOGJkZjgiIHN0cm9rZS13aWR0aD0iMi41Ii8+CiAgPHRleHQgeD0iNjQ1IiB5PSIxMDkiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiNmZmZmZmYiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmb250LXNpemU9IjkiIGZvbnQtd2VpZ2h0PSJib2xkIj5EQVJBTU9MQTwvdGV4dD4KICA8dGV4dCB4PSI2NDUiIHk9IjEyMSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzM0ZDM5OSIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iOSIgZm9udC13ZWlnaHQ9ImJvbGQiPkRZTkFTVFk8L3RleHQ+CiAgPGNpcmNsZSBjeD0iNDA1IiBjeT0iMTc1IiByPSIyNCIgZmlsbD0iIzFlMjkzYiIvPgogIDxwYXRoIGQ9Ik0zNTUgMjEwIEw0NTUgMjEwIEw0NzAgMzA1IEwzNDAgMzA1IFoiIGZpbGw9IiMxNmEzNGEiLz4KICA8cmVjdCB4PSIyMDUiIHk9IjI1NiIgd2lkdGg9IjM5MCIgaGVpZ2h0PSIzOCIgcng9IjgiIGZpbGw9IiMwZjE3MmEiIG9wYWNpdHk9IjAuOTIiLz4KICA8dGV4dCB4PSI0MDAiIHk9IjI4MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iI2ZmZmZmZiIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTMiIGZvbnQtd2VpZ2h0PSJib2xkIj5idXQgd2hhdCBtYWtlcyBhIHNjaG9vbCBzcGVjaWFsIGlzbid0IGp1c3Qgd2hhdCB3ZSBsZWFybiBpbnNpZGU8L3RleHQ+CiAgPHJlY3QgeD0iODUiIHk9IjMyNSIgd2lkdGg9IjQ0MCIgaGVpZ2h0PSI0MiIgcng9IjEwIiBmaWxsPSIjMGYxNzJhIi8+CiAgPHRleHQgeD0iMTAzIiB5PSIzNTEiIGZpbGw9IiMzNGQzOTkiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmb250LXNpemU9IjEzIiBmb250LXdlaWdodD0iYm9sZCI+RGFyYW1vbGEgRHluYXN0eSDigKIgVHdvIFNjaG9vbHMgT3V0cmVhY2ggKElzaGFyYSk8L3RleHQ+Cjwvc3ZnPg=="
-CELEBRATION_STILL_URI = "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4MDAiIGhlaWdodD0iNDUwIiB2aWV3Qm94PSIwIDAgODAwIDQ1MCI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJnIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMzMzQxNTUiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMGYxNzJhIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iODAwIiBoZWlnaHQ9IjQ1MCIgZmlsbD0idXJsKCNiZykiLz4KICA8cmVjdCB4PSI2NSIgeT0iNTUiIHdpZHRoPSI2NzAiIGhlaWdodD0iMzQwIiByeD0iMTQiIGZpbGw9IiM0NzU1NjkiLz4KICA8cGF0aCBkPSJNMjk1IDE2NSBRMzY1IDExMCA0MzUgMTY1IFE0MTUgMjE1IDM2NSAyMTUgUTMxNSAyMTUgMjk1IDE2NSBaIiBmaWxsPSIjZmJjZmU4Ii8+CiAgPGNpcmNsZSBjeD0iMzY1IiBjeT0iMjQ1IiByPSIzNCIgZmlsbD0iIzc4MzUwZiIvPgogIDxwYXRoIGQ9Ik0yODUgMzg1IEwzMTAgMjg1IEw0MjAgMjg1IEw0NDUgMzg1IFoiIGZpbGw9IiNmY2U3ZjMiLz4KICA8Y2lyY2xlIGN4PSIzNjUiIGN5PSIzMzUiIHI9IjM0IiBmaWxsPSIjZmJjZmU4IiBzdHJva2U9IiNlYWIzMDgiIHN0cm9rZS13aWR0aD0iNSIvPgogIDxyZWN0IHg9IjE5NSIgeT0iMzQyIiB3aWR0aD0iNDEwIiBoZWlnaHQ9IjQwIiByeD0iMTAiIGZpbGw9IiMwZjE3MmEiIG9wYWNpdHk9IjAuOSIvPgogIDx0ZXh0IHg9IjQwMCIgeT0iMzY3IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjZmJjZmU4IiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIxNCIgZm9udC13ZWlnaHQ9ImJvbGQiPkNlbGVicmF0aW9uICZhbXA7IEV2ZW50IEhpZ2hsaWdodCDigKIgUGVhY2ggR2VsZSAmYW1wOyBGYW48L3RleHQ+Cjwvc3ZnPg=="
-INTERVIEW_STILL_URI = "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4MDAiIGhlaWdodD0iNDUwIiB2aWV3Qm94PSIwIDAgODAwIDQ1MCI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJnIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiM0NzU1NjkiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMWUyOTNiIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iODAwIiBoZWlnaHQ9IjQ1MCIgZmlsbD0idXJsKCNiZykiLz4KICA8cmVjdCB4PSI2NSIgeT0iNTUiIHdpZHRoPSI2NzAiIGhlaWdodD0iMzQwIiByeD0iMTQiIGZpbGw9IiM2NDc0OGIiLz4KICA8Y2lyY2xlIGN4PSI2NDUiIGN5PSI5NiIgcj0iMjgiIGZpbGw9IiMwZjE3MmEiIHN0cm9rZT0iIzM4YmRmOCIgc3Ryb2tlLXdpZHRoPSIyLjUiLz4KICA8dGV4dCB4PSI2NDUiIHk9IjkzIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjZmZmZmZmIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSI4IiBmb250LXdlaWdodD0iYm9sZCI+REFSQU1PTEE8L3RleHQ+CiAgPHRleHQgeD0iNjQ1IiB5PSIxMDQiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiMzNGQzOTkiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmb250LXNpemU9IjgiIGZvbnQtd2VpZ2h0PSJib2xkIj5EWU5BU1RZPC90ZXh0PgogIDxjaXJjbGUgY3g9IjM4NSIgY3k9IjE1NSIgcj0iNDIiIGZpbGw9IiMxZTI5M2IiLz4KICA8cGF0aCBkPSJNMjk1IDM5NSBMMzI1IDIyMCBMNDQ1IDIyMCBMNDc1IDM5NSBaIiBmaWxsPSIjMGYxNzJhIi8+CiAgPHJlY3QgeD0iMjAwIiB5PSIyOTUiIHdpZHRoPSI0MDAiIGhlaWdodD0iNjIiIHJ4PSIxMCIgZmlsbD0iIzBmMTcyYSIgb3BhY2l0eT0iMC45MiIvPgogIDx0ZXh0IHg9IjQwMCIgeT0iMzIwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjZmZmZmZmIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC1zaXplPSIxNCIgZm9udC13ZWlnaHQ9ImJvbGQiPnRoZXNlIGFyZSB0aGUgdGhpbmdzIHRoYXQ8L3RleHQ+CiAgPHRleHQgeD0iNDAwIiB5PSIzNDMiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiMzNGQzOTkiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmb250LXNpemU9IjE0IiBmb250LXdlaWdodD0iYm9sZCI+bWFrZXMgdXMgZ3JvdyBhcyBpbmRpdmlkdWFsczwvdGV4dD4KPC9zdmc+"
-SPEAKER_STILL_URI = "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4MDAiIGhlaWdodD0iNDUwIiB2aWV3Qm94PSIwIDAgODAwIDQ1MCI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJnIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMzMzQxNTUiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMWUyOTNiIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iODAwIiBoZWlnaHQ9IjQ1MCIgZmlsbD0idXJsKCNiZykiLz4KICA8cmVjdCB4PSI2NSIgeT0iNTUiIHdpZHRoPSI2NzAiIGhlaWdodD0iMzQwIiByeD0iMTQiIGZpbGw9IiNmMWY1ZjkiLz4KICA8dGV4dCB4PSI0MTUiIHk9IjE1NSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzk5MWIxYiIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iNzgiIGZvbnQtd2VpZ2h0PSJib2xkIiBvcGFjaXR5PSIwLjI4Ij5DRjwvdGV4dD4KICA8dGV4dCB4PSIyMzUiIHk9IjIyMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzdmMWQxZCIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMjIiIGZvbnQtd2VpZ2h0PSJib2xkIj5DQU0uLi48L3RleHQ+CiAgPHRleHQgeD0iNTQ1IiB5PSIyMTAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiM3ZjFkMWQiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmb250LXNpemU9IjE4IiBmb250LXdlaWdodD0iYm9sZCI+Li4uTE9XU0hJUDwvdGV4dD4KICA8Y2lyY2xlIGN4PSIzODUiIGN5PSIxNDgiIHI9IjM0IiBmaWxsPSIjMWUyOTNiIi8+CiAgPHJlY3QgeD0iMzU3IiB5PSIxMzgiIHdpZHRoPSI1NiIgaGVpZ2h0PSIxNiIgcng9IjQiIGZpbGw9IiMwZjE3MmEiLz4KICA8cGF0aCBkPSJNMzE1IDM5NSBMMzM1IDIxNSBMNDM1IDIxNSBMNDU1IDM5NSBaIiBmaWxsPSIjYThhMjllIi8+CiAgPHJlY3QgeD0iNTIwIiB5PSIyNjUiIHdpZHRoPSI5MCIgaGVpZ2h0PSIxMzAiIHJ4PSI4IiBmaWxsPSIjZDk3NzA2Ii8+CiAgPHJlY3QgeD0iMTk1IiB5PSIzNDYiIHdpZHRoPSI0MTAiIGhlaWdodD0iMzgiIHJ4PSIxMCIgZmlsbD0iIzBmMTcyYSIgb3BhY2l0eT0iMC45Ii8+CiAgPHRleHQgeD0iNDAwIiB5PSIzNzEiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiNmOGZhZmMiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmb250LXNpemU9IjEzIiBmb250LXdlaWdodD0iYm9sZCI+Q2FtcHVzIEZlbGxvd3NoaXAgU3RhZ2UgU3BlYWtpbmcg4oCiIE1pYyAmYW1wOyBQb2RpdW08L3RleHQ+Cjwvc3ZnPg=="
+
+def svg_uri(svg_text: str) -> str:
+    return "data:image/svg+xml;base64," + base64.b64encode(svg_text.encode("utf-8")).decode("utf-8")
+
+
+CEO_PORTRAIT_URI = svg_uri("""<svg xmlns="http://www.w3.org/2000/svg" width="600" height="750" viewBox="0 0 600 750">
+  <rect width="600" height="750" fill="#334155"/>
+  <rect x="105" y="704" width="390" height="34" rx="10" fill="#0f172a"/>
+  <text x="300" y="726" text-anchor="middle" fill="#f8fafc" font-family="sans-serif" font-size="14" font-weight="bold">Michael Blessing • CEO, Upside ng</text>
+</svg>""")
+
+SPEAKER_STILL_URI = svg_uri("""<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#1e293b"/>
+  <rect x="70" y="60" width="660" height="330" rx="14" fill="#f1f5f9"/>
+  <text x="415" y="165" text-anchor="middle" fill="#991b1b" font-family="sans-serif" font-size="78" font-weight="bold" opacity="0.28">CF</text>
+  <rect x="195" y="344" width="410" height="38" rx="10" fill="#0f172a"/>
+  <text x="400" y="369" text-anchor="middle" fill="#f8fafc" font-family="sans-serif" font-size="13" font-weight="bold">Campus Fellowship Stage Speaking • Mic &amp; Podium</text>
+</svg>""")
+
+INTERVIEW_STILL_URI = svg_uri("""<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#1e293b"/>
+  <rect x="70" y="60" width="660" height="330" rx="14" fill="#475569"/>
+  <circle cx="635" cy="105" r="32" fill="#0f172a" stroke="#38bdf8" stroke-width="2.5"/>
+  <text x="635" y="102" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="8.5" font-weight="bold">DARAMOLA</text>
+  <text x="635" y="114" text-anchor="middle" fill="#34d399" font-family="sans-serif" font-size="8.5" font-weight="bold">DYNASTY</text>
+  <rect x="190" y="290" width="420" height="62" rx="10" fill="#0f172a"/>
+  <text x="400" y="316" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="14" font-weight="bold">these are the things that</text>
+  <text x="400" y="339" text-anchor="middle" fill="#34d399" font-family="sans-serif" font-size="14" font-weight="bold">makes us grow as individuals</text>
+</svg>""")
+
+CELEBRATION_STILL_URI = svg_uri("""<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#1e293b"/>
+  <rect x="70" y="60" width="660" height="330" rx="14" fill="#334155"/>
+  <path d="M295 165 Q365 110 435 165 Q415 215 365 215 Q315 215 295 165 Z" fill="#fbcfe8"/>
+  <path d="M285 375 L310 275 L420 275 L445 375 Z" fill="#fce7f3"/>
+  <rect x="195" y="335" width="410" height="40" rx="10" fill="#0f172a"/>
+  <text x="400" y="360" text-anchor="middle" fill="#fbcfe8" font-family="sans-serif" font-size="14" font-weight="bold">Celebration &amp; Event Highlight • Peach Gele &amp; Fan</text>
+</svg>""")
+
+SCHOOL_STILL_URI = svg_uri("""<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#0f172a"/>
+  <rect x="70" y="60" width="660" height="330" rx="14" fill="#1e3a2f"/>
+  <circle cx="635" cy="108" r="32" fill="#0f172a" stroke="#38bdf8" stroke-width="2.5"/>
+  <text x="635" y="105" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="8.5" font-weight="bold">DARAMOLA</text>
+  <text x="635" y="117" text-anchor="middle" fill="#34d399" font-family="sans-serif" font-size="8.5" font-weight="bold">DYNASTY</text>
+  <rect x="165" y="255" width="470" height="42" rx="10" fill="#0f172a"/>
+  <text x="400" y="281" text-anchor="middle" fill="#34d399" font-family="sans-serif" font-size="13" font-weight="bold">Daramola Dynasty • Two Schools Outreach (Ishara)</text>
+</svg>""")
+
+POV_STILL_URI = svg_uri("""<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#64748b"/>
+  <polygon points="340,210 460,210 680,450 120,450" fill="#334155"/>
+  <circle cx="645" cy="68" r="34" fill="#0f172a" stroke="#38bdf8" stroke-width="3"/>
+  <text x="645" y="65" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="10" font-weight="bold">DYNASTY</text>
+  <text x="645" y="78" text-anchor="middle" fill="#34d399" font-family="sans-serif" font-size="9" font-weight="bold">ACADEMY</text>
+  <rect x="195" y="346" width="410" height="58" rx="12" fill="#0f172a"/>
+  <text x="400" y="370" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="15" font-weight="bold">POV: that one bro that blame</text>
+  <text x="400" y="392" text-anchor="middle" fill="#34d399" font-family="sans-serif" font-size="15" font-weight="bold">everyone except himself</text>
+</svg>""")
+
+ACADEMY_STILL_URI = svg_uri("""<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <rect width="800" height="225" fill="#cbd5e1"/>
+  <rect y="225" width="800" height="225" fill="#1b5e20"/>
+  <circle cx="630" cy="70" r="36" fill="#0f172a" stroke="#38bdf8" stroke-width="3"/>
+  <text x="630" y="66" text-anchor="middle" fill="#ffffff" font-family="sans-serif" font-size="10.5" font-weight="bold">DYNASTY</text>
+  <text x="630" y="80" text-anchor="middle" fill="#34d399" font-family="sans-serif" font-size="9.5" font-weight="bold">FOOTBALL ACADEMY</text>
+  <rect x="35" y="382" width="365" height="38" rx="10" fill="#0f172a"/>
+  <text x="52" y="406" fill="#ffffff" font-family="sans-serif" font-size="14" font-weight="bold">Dynasty Football Academy • Pitch Action Frame</text>
+</svg>""")
 
 if "portrait_data_uri" not in st.session_state:
     st.session_state.portrait_data_uri = CEO_PORTRAIT_URI
@@ -45,14 +107,14 @@ st.markdown(
         background: linear-gradient(180deg, #f8fafc 0%, #eef2ff 100%);
         color: #0f172a;
     }
-    p, span, label, .stMarkdown, div[data-testid="stMarkdownContainer"] {
-        color: #1e293b !important;
+    .stApp p, .stApp label, .stApp div[data-testid="stMarkdownContainer"] p, .stApp div[data-testid="stMarkdownContainer"] li {
+        color: #1e293b;
     }
     .upside-hero {
         background: linear-gradient(135deg, #0f172a 0%, #1e1b4b 55%, #312e81 100%);
         padding: 2rem 2.25rem;
         border-radius: 18px;
-        color: #ffffff !important;
+        color: #ffffff;
         margin-bottom: 1.5rem;
         box-shadow: 0 12px 28px -6px rgba(15, 23, 42, 0.25);
     }
@@ -61,19 +123,24 @@ st.markdown(
         font-size: 2.2rem;
         font-weight: 800;
         letter-spacing: -0.02em;
-        color: #ffffff !important;
+        color: #ffffff;
     }
     .upside-hero p {
         margin: 0;
-        color: #e0e7ff !important;
+        color: #e0e7ff;
         font-size: 1.03rem;
         line-height: 1.6;
+    }
+    .upside-hero .hero-contact-bar {
+        margin-top: 1.1rem;
+        font-size: 0.92rem;
+        color: #f8fafc;
     }
     .upside-badge {
         display: inline-block;
         background: rgba(16, 185, 129, 0.22);
         border: 1px solid rgba(52, 211, 153, 0.55);
-        color: #34d399 !important;
+        color: #34d399;
         font-size: 0.78rem;
         font-weight: 700;
         padding: 0.25rem 0.75rem;
@@ -98,12 +165,14 @@ st.markdown(
         width: 100%;
         aspect-ratio: 4 / 5;
         object-fit: cover;
+        object-position: top center;
         display: block;
     }
     .card-thumb {
         width: 100%;
         height: 200px;
         object-fit: cover;
+        object-position: top center;
         border-radius: 12px;
         margin-bottom: 0.85rem;
         border: 1px solid #e2e8f0;
@@ -115,42 +184,47 @@ st.markdown(
         padding: 0.2rem 0.65rem;
         border-radius: 999px;
         background: #e0e7ff;
-        color: #1e1b4b !important;
+        color: #1e1b4b;
         margin-bottom: 0.5rem;
     }
     .pill-tag-green {
         background: #d1fae5;
-        color: #065f46 !important;
+        color: #065f46;
     }
-    .cta-link {
+    a.cta-link {
         display: inline-block;
         margin-top: 0.65rem;
         padding: 0.52rem 0.95rem;
         border-radius: 10px;
         background: #0f172a;
-        color: #ffffff !important;
+        color: #ffffff;
         text-decoration: none;
         font-weight: 700;
         font-size: 0.86rem;
     }
-    .cta-link:hover {
+    a.cta-link:hover {
         background: #1e293b;
+        color: #ffffff;
     }
-    .cta-whatsapp {
+    a.cta-whatsapp {
         background: #059669;
+        color: #ffffff;
     }
-    .cta-whatsapp:hover {
+    a.cta-whatsapp:hover {
         background: #047857;
+        color: #ffffff;
     }
-    .cta-social {
+    a.cta-social {
         background: #1e1b4b;
+        color: #ffffff;
     }
-    .cta-social:hover {
+    a.cta-social:hover {
         background: #312e81;
+        color: #ffffff;
     }
     .stTextInput label, .stTextArea label, .stSelectbox label, .stFileUploader label {
-        color: #0f172a !important;
-        font-weight: 700 !important;
+        color: #0f172a;
+        font-weight: 700;
     }
     </style>
     """,
@@ -244,13 +318,13 @@ with hero_col:
         f"""
         <div class="upside-hero">
             <span class="upside-badge">● UPSIDE NG • LED BY CEO MICHAEL BLESSING</span>
-            <h1>Clean Pacing, Clear Voice & Visuals That Connect</h1>
+            <h1>Clean Pacing, Clear Voice &amp; Visuals That Connect</h1>
             <p>
                 <strong>Upside ng</strong> edits stage talks and interviews, event celebrations, school outreach documentaries,
                 comedy POV reels, and football/sports clips with smooth transitions, motion effects, colour adjustments,
                 sound design, captions, and engaging storytelling.
             </p>
-            <div style="margin-top: 1.1rem; font-size: 0.92rem; color: #cbd5e1 !important;">
+            <div class="hero-contact-bar">
                 📞 <strong>{WHATSAPP_NUMBER}</strong> &nbsp;•&nbsp; ✉️ <strong>{EMAIL_ADDRESS}</strong>
             </div>
         </div>
@@ -330,9 +404,9 @@ with contact_col:
     st.markdown(
         f"""
         <div class="surface-card">
-            <span class="pill-tag pill-tag-green">DIRECT BOOKING & SOCIAL CHANNELS</span>
+            <span class="pill-tag pill-tag-green">DIRECT BOOKING &amp; SOCIAL CHANNELS</span>
             <h3 style="margin:0.25rem 0 0.75rem 0; font-size:1.3rem; font-weight:800; color:#0f172a;">
-                Work With Michael Blessing & Upside ng
+                Work With Michael Blessing &amp; Upside ng
             </h3>
             <p style="margin:0.35rem 0; color:#1e293b;"><strong>CEO:</strong> Michael Blessing</p>
             <p style="margin:0.35rem 0; color:#1e293b;"><strong>WhatsApp / Phone:</strong> {WHATSAPP_NUMBER}</p>
@@ -355,7 +429,7 @@ with contact_col:
 
 st.divider()
 
-st.markdown("## 🎞️ Edited Videos & Project Stills")
+st.markdown("## 🎞️ Edited Videos &amp; Project Stills")
 st.markdown(
     f"Featured clips and stills from your links. [Stage Keynote Clip ↗]({DRIVE_SPEAKER_URL}) &nbsp;|&nbsp; "
     f"[Personal Growth Talk ↗]({DRIVE_INTERVIEW_URL}) &nbsp;|&nbsp; [Event Highlight Clip ↗]({DRIVE_CELEBRATION_URL}) &nbsp;|&nbsp; "
